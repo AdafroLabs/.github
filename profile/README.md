@@ -1,2 +1,2 @@
-An Education and enterpreneural collaboration to solve local problems using Cardano blockchain.
+An Education and enterpreneurial collaboration to solve local problems using Cardano blockchain.
 
